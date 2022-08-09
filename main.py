@@ -6,3 +6,6 @@ def sum(x, y):
 
 def belekas(x, y, z):
     return(x*y+z)
+
+def darvienas(x, y, z):
+    return (x**y/z)
